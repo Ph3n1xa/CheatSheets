@@ -214,7 +214,7 @@ Cheat sheets are regularly updated as I learn new techniques and tools.
 Found an error or have a suggestion?
 - Open an issue on GitHub
 - Submit a pull request
-- Contact me: elodie.moiraud[@]protonmail.com
+- Contact me: ph3n1xa@proton.me
 
 ---
 
