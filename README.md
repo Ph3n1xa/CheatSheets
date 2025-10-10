@@ -12,6 +12,7 @@ These cheat sheets are condensed notes from my HTB Academy training, labs, and p
 Essential Linux commands for reconnaissance, exploitation, and post-exploitation.
 
 **Topics Covered:**
+- 20 Basics Pentesting Scripts
 - File system navigation & manipulation
 - User enumeration & permissions
 - Process management & monitoring
@@ -34,16 +35,11 @@ Core networking concepts for penetration testing.
 
 ---
 
-### 🔍 [Nmap Cheat Sheet](./Nmap-Commands.md)
+### 🔍 [Nmap Cheat Sheet]
 Comprehensive Nmap scanning reference.
 
 **Topics Covered:**
-- Scan types (TCP, UDP, SYN, NULL, FIN)
-- Service & version detection
-- Script scanning (NSE)
-- Output formats
-- Firewall/IDS evasion techniques
-- Common scan combinations
+- Nmap Basics Enumeration Pentester
 
 ---
 
@@ -168,7 +164,7 @@ Log analysis and SIEM fundamentals for Blue Team perspective.
 **Quick Reference:**
 ```bash
 # Clone repository
-git clone https://github.com/your-username/Cybersecurity-Portfolio
+git clone https://github.com/Ph3n1xa/Cybersecurity-Portfolio
 
 # Navigate to cheat sheets
 cd Cheat-Sheets
@@ -192,6 +188,7 @@ These cheat sheets are compiled from:
 - **Offensive Security** training materials
 - **Personal lab experience** (HTB, TryHackMe)
 - **Community resources** (credited in individual sheets)
+- **Claude IA**
 
 ---
 
