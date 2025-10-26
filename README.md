@@ -8,7 +8,15 @@ These cheat sheets are condensed notes from my HTB Academy training, labs, and p
 
 ## 📚 Available Cheat Sheets
 
+- [20 Basic Pentest Scripts](https://github.com/Ph3n1xa/CheatSheets/blob/main/20BasicPentestScripts.md)
 
+- [Basic Bash Scripting](https://github.com/Ph3n1xa/CheatSheets/blob/main/BasicBashScripting.md) 
+
+- [Basic Commands MySQL](https://github.com/Ph3n1xa/CheatSheets/blob/main/BasicCommandsMySQL.md)
+
+- [Nmap Pentester](https://github.com/Ph3n1xa/CheatSheets/blob/main/NmapPentester.md)
+
+- [Workflow Exploitation IP Pentest](https://github.com/Ph3n1xa/CheatSheets/blob/main/WorkflowExploitationIPPentest.md)
 
 ---
 
