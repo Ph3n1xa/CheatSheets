@@ -1,6 +1,6 @@
 # CheatSheets
 
-Personal reference guides for penetration testing methodologies, tools, and techniques.
+Personal reference guides for penetration testing methodologies, tools, and techniques (FRENCH LANGUAGE).
 
 These cheat sheets are condensed notes from my HTB Academy training, labs, and practical experience.
 
